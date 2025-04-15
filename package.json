@@ -13,6 +13,7 @@
   "author": "obaid",
   "license": "ISC",
   "dependencies": {
+    "clone": "file:",
     "express": "^4.21.1"
   }
 }
